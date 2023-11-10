@@ -1,0 +1,2 @@
+# ThickBorders
+xfwm theme 
