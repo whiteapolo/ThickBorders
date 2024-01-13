@@ -1,9 +1,12 @@
 # ThickBorders
 xfwm theme 
+![Image](demo2.jpg)
 
 ![Image](demo1.jpg)
 
-![Image](demo2.jpg)
+![Image](demo3.jpg)
+
+
 
 ## Install
 
